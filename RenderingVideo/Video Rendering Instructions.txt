@@ -1,0 +1,21 @@
+*****VIDEO RENDERING INSTRUCTIONS*****
+
+1. Upload the file to be rendered in the "ProjectFile" folder and remember the name of the file as you'll be prompted to enter the same in the Collab Notebook.
+
+2. If the "ImageStrip" folder doesn't exist inside "RenderingVideo" folder when you first copy the entire "BlenderRenders" project to Drive, create one.
+
+3. The "ImageStrip" folder is where the rendered Image Strip will be saved inside a folder after rendering.
+
+4. Goto the "RenderScript" folder and double-click on the file to open in Collab. Do not make any changes inside this folder oe file.
+
+5. After rendering, the entire folder inside the "ImageStrip" folder can be downloaded and all the images coverted into a video pretty easily.
+
+6. While executing the Collab script, you will get prompted to enter the Start Frame (1) and End Frame (whatever you have set it to).
+
+7. Incase the Collab script stops and you are disconnected from present session and you rendered 20 frames, in another session set the Start Frame to 21 and so on to resume.
+
+
+
+NOTE : 
+
+The default project in the "ProjectFile" is just a couple of balls dropping. For the default "VideoProject.blend" the Start Frame is 1 and End Frame is 120. Give it a try!

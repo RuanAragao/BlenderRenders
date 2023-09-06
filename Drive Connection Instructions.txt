@@ -1,0 +1,8 @@
+*****DRIVE CONNECTION INSTRUCTIONS*****
+
+
+Step 01 : You will see an Authentication message from the notebook while execution. 
+
+Step 02 : Click on the link and it will redirect you to choose the Google account whose drive you want to mount. 
+
+Step 03 : You will recieve an authentication code copy it and paste into the empty box in Collab Notebook. (Use Ctrl + V to paste)

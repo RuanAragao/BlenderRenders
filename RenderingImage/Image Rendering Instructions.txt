@@ -1,0 +1,15 @@
+*****IMAGE RENDERING INSTRUCTIONS*****
+
+1. Upload the file to be rendered in the "ProjectFile" folder and remember the name as the Collab notebook will prompt you to enter it.
+
+2. If the "Image" folder doesn't exist inside "RenderingImage" folder when you first copy the entire "BlenderRenders" project to Drive, create one.
+
+3. The "Image" folder is where the rendered Image will be saved after rendering inside an appropriately named folder.
+
+4. Goto the "RenderScript" folder and double-click on the file to open in Collab. Do not make any changes inside this folder or file.
+
+
+
+NOTE : 
+
+The default project in the "ProjectFile" is the BMW Render available on the Blender Website. Give it a try!
