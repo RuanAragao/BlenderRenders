@@ -1,4 +1,5 @@
-*****SETUP INSTRUCTIONS*****
+# Blender Renders
+## SETUP INSTRUCTIONS
 
 1. Download the entire "BlenderRenders" folder into your PC.
 
